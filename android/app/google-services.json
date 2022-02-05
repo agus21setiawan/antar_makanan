@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430086481135",
+    "project_id": "antarmakanan-879db",
+    "storage_bucket": "antarmakanan-879db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430086481135:android:4aff4e645e129f93f9671a",
+        "android_client_info": {
+          "package_name": "id.antarmakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430086481135-lnd07llg030hd5lqdij96os6ss3e0tsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Y6feUd3MLdbTU1_42P9LltzOgHaQtFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430086481135-lnd07llg030hd5lqdij96os6ss3e0tsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
